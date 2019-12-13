@@ -117,7 +117,7 @@ O Fator determinante estão correlacionados diretamente entre "**age**" e o "**b
 O balance e a idade tem forte influencia na decisão, de acordo com o mapa de calor. Com base na analise anterior, utilizei as mesmas métricas para determinar as características influenciadas no resultado.
 Criei alguns cenários distintos levando em considearação se o cliente é ou não casado e qual o grau de escolaridade ele possui, e defini uma faixa de idade para analise, clientes maiores de 40 anos e clientes menores ou iguais a 40 anos, com isso aumentamos nossa precisão e podemos analisar melhor o balanciamento do entre as correlações.
 Um ponto a destacar é que o cenário não modifica muito o resultado levando em consideração se o cliente o grau de escolaridade, entre primeiro e segundo grau, já o terceiro grau, tem uma gratificante aumento na hora de montar o perfil do cliente.
-
+Podemos concluir que se o cliente tem menos de 40 anos, não possui relacionamento e tem o grau de escolaridade entre primeiro e segundo grau tem uma maior propensão a aderir crédito no banco.
 
 ### links de pesquisas
 https://medium.com/brdata/correla%C3%A7%C3%A3o-direto-ao-ponto-9ec1d48735fb
