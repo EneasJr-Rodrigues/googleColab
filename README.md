@@ -114,10 +114,10 @@ O Fator determinante estão correlacionados diretamente entre "**age**" e o "**b
 
 ## 6) Quais são as características mais proeminentes de um cliente que possua empréstimo imobiliário?
 **Resposta:**
-Com base na analise anterior, utilizei as mesmas métricas para determinar as características influenciadas e traçar o perfil do cleinte que já possui um empréstimo no banco.
+Com base na analise anterior, utilizei as mesmas métricas para determinar as características influenciadas e traçar o perfil do cleinte que já possui um empréstimo imobiliário.
 Criei alguns cenários distintos levando em considearação se o cliente é ou não casado e qual o grau de escolaridade ele possui, defini uma faixa de idade para analise, clientes maiores de 40 anos e clientes menores ou iguais a 40 anos, com isso aumentamos nossa precisão e podemos analisar melhor o balanciamento do entre as correlações.
-O mapa de calor varia bastante entre os perfis mas o perfil que tem maior aderência sem duvidas possuiem as seguintes caracteristicas:
-Grande parte possui acima de 40 anos, não são casados, o grau de escolaridade é desconhecido ou não possui, o "balance" possui uma forte correlação no perfil do cliente, podemos concluir que esse é o perfil proeminentes de um cliente que possui emprestimo imobiliario.
+O mapa de calor varia bastante entre os perfis mas o perfil que tem maior aderência, possuiem as seguintes caracteristicas:
+Grande parte possui menos de 40 anos, não são casados, o grau de escolaridade é desconhecido ou não possui, o "balance" possui uma forte correlação entre o "balance" e "previous" pois esses são seus maiores influenciadores, podemos concluir que esse é o perfil proeminentes de um cliente que possui emprestimo imobiliario.
 
 ### links de pesquisas
 https://medium.com/brdata/correla%C3%A7%C3%A3o-direto-ao-ponto-9ec1d48735fb
