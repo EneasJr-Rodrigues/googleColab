@@ -1,6 +1,9 @@
 # googleColab
 Notebook from google colab - Projeto Machine Learning para predição de dados bancários
 
+#### - Ferramentas utilizadas:
+##### - Microsoft Excel, Jupyter-notebook, Google Colab
+
 #### - dataset explainated
 
 #### Explicação do dataset:
