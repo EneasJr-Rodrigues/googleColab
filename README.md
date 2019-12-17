@@ -90,7 +90,7 @@ Usei a função nativa de sklearn classification_report para analisarmos a preci
 
 - **Falso negativo (false negative — FN)**-Ocorre quando no conjunto real, a classe que não estamos buscando prever foi prevista incorretamente.
 
-Analisando o **Falso positivo** da categoria não (é a variável categórica do dataset), em correlação a predição os valores estão altos o que indica que é necessário calibrar o modelo, no caso podemos pegar uma amostra maior com um maior numero de com valores mais variável para que o modelo possa se aproximar do menor ponto de erro, como faz outros modelos de machine learning (Regressão Logística) onde a função do gradiente executa diversos ciclos para aperfeiçoamento onde o índice de erro fica no ponto mais próximo.
+Analisando o **Falso positivo** da categoria não (é a variável categórica do dataset), em correlação a predição os valores estão altos o que indica que é necessário calibrar o modelo, no caso podemos pegar uma amostra maior com um maior numero de com valores mais variável para que o modelo possa se aproximar do menor ponto de erro, como faz outros modelos de machine learning (Regressão Linear) onde a função do gradiente executa diversos ciclos para aperfeiçoamento onde o índice de erro fica no ponto mais baixo de erro.
 
 Usamos a variável de predição para popular o dataset com valores preditos, a amostra de predições foi de **13K** aproximadamente
 
