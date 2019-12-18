@@ -61,7 +61,7 @@ import sys
 import warnings
 warnings.filterwarnings('ignore')
 
-## Funcões do method HEAD de Pandas para configurar o display - method Head()
+## Funcões do method HEAD de Pandas para configurar o display
 
 pd.set_option('display.max_colwidth', -1)
 pd.set_option('display.max_rows', 10)
