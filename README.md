@@ -56,12 +56,12 @@ import seaborn
 import logging
 import sys
 
-## Bibliotecas de log warning - otimos o resultado no notebook
+## Bibliotecas de log warning - omitir avisos do log no notebook
 
 import warnings
 warnings.filterwarnings('ignore')
 
-## Funcões do method HEAD de Pandas para configurar o display
+## Funcões do method HEAD de Pandas para configurar o display - method Head()
 
 pd.set_option('display.max_colwidth', -1)
 pd.set_option('display.max_rows', 10)
