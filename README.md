@@ -93,7 +93,7 @@ Analisando o **Falso positivo** da categoria não (é a variável categórica do
 
 Usamos a variável de predição para popular o dataset com valores preditos, a amostra de predições foi de **13K** aproximadamente
 
-Com os valores preditos conseguimos chegar no resultado de **37%** com o resultado da base total. 
+Com os valores preditos conseguimos chegar no resultado de **37%** de predições positivas (abriria um empréstimos) com o resultado da base total. 
 Para profissões que tem uma tendência a fazer empréstimo, em destaque está a profissão **blue-collar** que tem **21%** de propensão à fazer empréstimos.
 
 ## 2. Fazendo uma relação entre número de contatos e sucesso da campanha quais são os pontos relevantes a serem observados?
