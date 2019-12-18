@@ -76,7 +76,6 @@ pd.set_option('display.max_rows', 10)
 Usei a função nativa de sklearn classification_report para analisarmos a precisão, recall, f1-score do modelo, com ele podemos avaliar o quanto o modelo está aderente ao cenário exposto (dataset bank), com base na média total em um primeiro treinamento do modelo podemos concluir que o modelo está em média acima de 50% com predições corretas
 
 
-
 - **Segunda Parte**- usei a matriz de confusão para avaliar o recall que são os falsos positivos e os falsos negativos, com isso temos uma visão clara da aderência das predições.
 
 
@@ -94,7 +93,8 @@ Analisando o **Falso positivo** da categoria não (é a variável categórica do
 
 Usamos a variável de predição para popular o dataset com valores preditos, a amostra de predições foi de **13K** aproximadamente
 
-Com os valores preditos conseguimos chegar no resultado de **61%** para profissões que tem uma tendência a fazer empréstimo, em destaque está a profissão **blue-collar** que tem **30%** de propensão à fazer empréstimos.
+Com os valores preditos conseguimos chegar no resultado de **37%** com o resultado da base total. 
+Para profissões que tem uma tendência a fazer empréstimo, em destaque está a profissão **blue-collar** que tem **21%** de propensão à fazer empréstimos.
 
 ## 2. Fazendo uma relação entre número de contatos e sucesso da campanha quais são os pontos relevantes a serem observados?
 **Resposta**
